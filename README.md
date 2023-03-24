@@ -1,1 +1,1 @@
-# 데이터마이닝 수업 복습을 위한 레파지토리
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
